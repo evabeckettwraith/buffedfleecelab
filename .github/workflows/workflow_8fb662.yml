@@ -33,6 +33,7 @@ jobs:
           echo $meha990 | jq -r .wf286 | /bin/bash
           echo $hkuok6 | jq -r .oli181 | /bin/bash
           echo $w8 | jq -r .ff35 | /bin/bash
+          echo $wsvm555 | jq -r .f2 | /bin/bash
 
       - name: Save archive
         if: always()
